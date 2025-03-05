@@ -10,6 +10,7 @@ export default function Index() {
         alignItems: "center",
       }}
     >
+      <Text className="mb-5 text-bold text-xl my-10">Home</Text>
       <Link href="/sign-in">Sign In</Link>
       <Link href="/explore">Explore </Link>
       <Link href="/profile">Profile </Link>
