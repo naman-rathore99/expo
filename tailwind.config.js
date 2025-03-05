@@ -5,7 +5,7 @@ module.exports = {
   presets: [require("nativewind/preset")],
   theme: {
     extend: {
-      fontFamilyFamily: {
+      fontFamily: {
         rubik: ["Rubik-Regular", "sans-serif"],
         rubikBold: ["Rubik-Bold", "sans-serif"],
         rubikMedium: ["Rubik-Medium", "sans-serif"],
